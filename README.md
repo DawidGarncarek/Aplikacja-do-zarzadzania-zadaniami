@@ -38,7 +38,7 @@ Dostępne opcje:
 - Wyświetlanie listy zadań
 - Zapis i odczyt z pliku zadania.txt
   
-📄 Dokumentacja
+## 📄 Dokumentacja
 
 Możesz wygenerować dokumentację w formacie HTML:
 
