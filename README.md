@@ -53,5 +53,5 @@ Aby uruchomić lokalny serwer z dokumentacją:
 python -m pydoc -b
 ```
 
-👤 Autor
+## 👤 Autor
 Dawid 
