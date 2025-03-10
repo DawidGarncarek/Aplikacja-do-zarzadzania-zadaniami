@@ -7,8 +7,8 @@ Aplikacja do zarządzania zadaniami w Pythonie. Pozwala na dodawanie, usuwanie, 
 📌 1. **Sklonuj repozytorium**:
 
 ```bash
-git clone https://github.com/twoje-repozytorium.git
-cd twoje-repozytorium
+git clone https://github.com/DawidGarncarek/TaskManager
+cd TaskManager
 ```
 
 📌 2. **Utwórz i aktywuj wirtualne środowisko**:
